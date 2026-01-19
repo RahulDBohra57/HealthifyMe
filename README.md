@@ -37,11 +37,11 @@ The goal is to empower individuals to take control of their wellness without dep
 
 Healthify is built using Generative AI (Google Gemini 2.5) and provides:
 
-🏋️ Fitness Recommendations – goal-based workouts
-🥗 Diet Planning – personalized nutrition advice
-🧘 Mental Wellness Support – stress and sleep guidance
-💬 LLM-Powered Chat Assistant – human-like interactions
-🌐 Web-Based Access – no mobile app required
+- 🏋️ Fitness Recommendations – goal-based workouts
+- 🥗 Diet Planning – personalized nutrition advice
+- 🧘 Mental Wellness Support – stress and sleep guidance
+- 💬 LLM-Powered Chat Assistant – human-like interactions
+- 🌐 Web-Based Access – no mobile app required
 
 🛠️ Tech Stack
 
