@@ -1,6 +1,6 @@
 App Link: https://healthify-me-app.streamlit.app/
 
-## Healthify – Your AI Wellness Assistant
+## HealthifyMe – Your AI Wellness Assistant
 ---
 An AI-powered virtual wellness coach delivering personalized fitness, nutrition, mental health, and lifestyle guidance using Google Gemini and Streamlit.
 
