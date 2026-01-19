@@ -4,7 +4,7 @@ App Link: https://healthify-me-app.streamlit.app/
 ---
 An AI-powered virtual wellness coach delivering personalized fitness, nutrition, mental health, and lifestyle guidance using Google Gemini and Streamlit.
 
-### Problem Statement
+### Problem Statement:
 
 In today’s high-stress lifestyle, individuals struggle to access personalized, affordable, and reliable wellness guidance.
 
@@ -15,7 +15,7 @@ Most solutions today are:
 
 There is no accessible, real-time AI system that provides custom wellness recommendations based on personal health data such as age, weight, goals, lifestyle, and medical conditions.
 
-### Business Objective
+### Business Objective:
 
 Healthify aims to democratize preventive healthcare by providing:
 - Personalized diet and fitness plans
@@ -26,14 +26,14 @@ Healthify aims to democratize preventive healthcare by providing:
 
 The goal is to empower individuals to take control of their wellness without dependency on costly consultations.
 
-### Target Users
+### Target Users:
 - Working professionals with limited time
 - Individuals managing chronic conditions
 - Fitness beginners and enthusiasts
 - Corporates focusing on employee wellness
 - Health & lifestyle startups
 
-### Solution Overview
+### Solution Overview:
 
 Healthify is built using Generative AI (Google Gemini 2.5) and provides:
 
@@ -43,7 +43,7 @@ Healthify is built using Generative AI (Google Gemini 2.5) and provides:
 - 💬 LLM-Powered Chat Assistant – human-like interactions
 - 🌐 Web-Based Access – no mobile app required
 
-### Tech Stack
+### Tech Stack:
 
 - Frontend
 - Streamlit (Python)
@@ -60,7 +60,7 @@ Healthify is built using Generative AI (Google Gemini 2.5) and provides:
   - LLM orchestration
   - Context-aware response generation
 
-### Business Impact & Industry Relevance
+### Business Impact & Industry Relevance:
 - Healthify demonstrates how GenAI can transform preventive healthcare by:
 - Reducing reliance on traditional consultations
 - Enabling self-guided health decisions
