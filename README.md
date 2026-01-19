@@ -43,7 +43,7 @@ Healthify is built using Generative AI (Google Gemini 2.5) and provides:
 - 💬 LLM-Powered Chat Assistant – human-like interactions
 - 🌐 Web-Based Access – no mobile app required
 
-🛠️ Tech Stack
+### Tech Stack
 
 - Frontend
 - Streamlit (Python)
