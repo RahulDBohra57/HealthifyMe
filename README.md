@@ -66,6 +66,6 @@ Healthify is built using Generative AI (Google Gemini 2.5) and provides:
 - Reducing reliance on traditional consultations
 - Enabling self-guided health decisions
 - Offering scalable wellness solutions for:
-- Healthtech startups
-- Insurance companies
-- Corporate wellness platforms
+  - Healthtech startups
+  - Insurance companies
+  - Corporate wellness platforms
