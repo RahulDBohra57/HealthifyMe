@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: healthifyme-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: healthifyme
+  template:
+    metadata:
+      labels:
+        app: healthifyme
+    spec:
+      containers:
+        - name: healthifyme
+          image: rahulbohra57/healthifyme-app:{{IMAGE_TAG}}
+          ports:
+            - containerPort: 8501
+          env:
+            - name: GOOGLE_API_KEY1
+              valueFrom:
+                secretKeyRef:
+                  name: gemini-api-secret
+                  key: GOOGLE_API_KEY1
